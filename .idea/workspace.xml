@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a764988d-8391-49ad-9099-30f069ad5641" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hEuLqOlq1dH5ylUc7ThcXbQSW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/2fe3cb0e-ec54-4522-b9a2-d8be6dab641e/test.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2fe3cb0e-ec54-4522-b9a2-d8be6dab641e" namespace="schema/&quot;homework4&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a764988d-8391-49ad-9099-30f069ad5641" name="Default Changelist" comment="" />
+      <created>1599588519961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599588519961</updated>
+      <workItem from="1599588521063" duration="2968000" />
+      <workItem from="1599731219115" duration="1191000" />
+      <workItem from="1599939686309" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599589721774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599589721774" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599590919924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599590919924" />
+    <state width="905" height="80" key="GridCell.Tab.0.bottom" timestamp="1599940119369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="80" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599940119369" />
+    <state width="905" height="80" key="GridCell.Tab.0.center" timestamp="1599940119369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="80" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599940119369" />
+    <state width="905" height="80" key="GridCell.Tab.0.left" timestamp="1599940119369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="80" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599940119369" />
+    <state width="905" height="80" key="GridCell.Tab.0.right" timestamp="1599940119369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="80" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599940119369" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1599589293930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599589293930" />
+    <state x="582" y="241" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1599589445261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="582" y="241" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1366.728@0.0.1366.728" timestamp="1599589445261" />
+    <state x="565" y="251" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1599589452879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="251" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1599589452879" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599589324838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599589324838" />
+  </component>
+</project>
